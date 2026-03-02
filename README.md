@@ -25,4 +25,4 @@ I am currently pursuing my Master of Science in Business Analytics at Florida St
 - **Relocation:** Open to major city hubs (NYC, Austin, Charlotte, etc.)
 - **Availability:** August 2026
 
-[LinkedIn](www.linkedin.com/in/marina-herrera) | [Portfolio Hub](LINK_TO_YOUR_DATA_PORTFOLIO_REPO)
+[LinkedIn]www.linkedin.com/in/marina-herrera | [Portfolio Hub](LINK_TO_YOUR_DATA_PORTFOLIO_REPO)
